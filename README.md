@@ -6,7 +6,7 @@
 
 ### Communication
 
-Deep Voltage: For discussions during and after the hackathon, please use the [chat room](https://riot.im/app/#/room/!DncqFOaoXsgUnageDH:matrix.ee.ethz.ch?via=matrix.ee.ethz.ch).
+For discussions during and after the hackathon, please use the [chat room](https://riot.im/app/#/room/!DncqFOaoXsgUnageDH:matrix.ee.ethz.ch?via=matrix.ee.ethz.ch).
 
 ### Data
 

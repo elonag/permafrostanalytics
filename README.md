@@ -154,3 +154,6 @@ Check out the many open-source tools available online. The ones we use and found
 * [zarr](https://zarr.readthedocs.io/en/stable/index.html)
 * [pandas](https://pandas.pydata.org/)
 * [obspy](https://github.com/obspy/obspy/wiki)/[obsplus](https://github.com/niosh-mining/obsplus)
+
+### Team Members
+* Martin Stalder

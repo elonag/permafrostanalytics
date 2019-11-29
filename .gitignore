@@ -66,3 +66,5 @@ data/
 cache-directory/
 
 poetry.lock
+.Rproj.user
+.DS_Store
